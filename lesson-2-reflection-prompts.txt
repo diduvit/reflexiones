@@ -3,7 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-Permite añadir terporalmente los ficheros que se quiere que esten en la nuevo "commit"
+Permite añadir temporalmente los ficheros que se quiere que esten en la nuevo "commit"
 
 
 How can you use the staging area to make sure you have one commit per logical
@@ -19,3 +19,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+Si ves esta línea es que se guardan los cambios en el staging area
