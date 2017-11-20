@@ -21,4 +21,4 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 
-Si ves esta línea es que se guardan los cambios en el staging area
+Si ves esta línea es que se guardan los cambios únicamente a la hora de hacer el commit
